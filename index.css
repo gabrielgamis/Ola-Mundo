@@ -1,10 +1,13 @@
-header, footer{
-    h1-height: 100px;
-    text-align: center;
-    background-color: #5B4E49;
-    line-height: 100px;
-    color: white;
-    font-family: 'Times New Roman'
+body {
+    color:greenyellow;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#teste_pos_clonagem
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
